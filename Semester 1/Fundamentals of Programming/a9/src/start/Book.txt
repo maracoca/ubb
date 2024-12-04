@@ -1,0 +1,20 @@
+1,The Catcher in the Rye,J.D. Salinger
+2,1984,George Orwell
+3,Brave New World,Aldous Huxley
+4,The Great Gatsby,F. Scott Fitzgerald
+5,One Hundred Years of Solitude,Gabriel Garcia Marquez
+6,The Catcher in the Rye,J.D. Salinger
+8,The Odyssey,Homer
+9,The Lord of the Rings,J.R.R. Tolkien
+10,War and Peace,Leo Tolstoy
+11,Crime and Punishment,Fyodor Dostoevsky
+12,The Brothers Karamazov,Fyodor Dostoevsky
+13,The Shining,Stephen King
+14,The Hitchhiker's Guide to the Galaxy,Douglas Adams
+15,The Martian,Andy Weir
+16,Slaughterhouse-Five,Kurt Vonnegut
+17,The Hunger Games,Suzanne Collins
+18,Dune,Frank Herbert
+19,The Chronicles of Narnia,C.S. Lewis
+20,The Color Purple,Alice Walker
+21,a,b
