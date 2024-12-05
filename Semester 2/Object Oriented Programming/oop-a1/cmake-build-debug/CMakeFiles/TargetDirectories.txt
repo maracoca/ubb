@@ -1,3 +1,0 @@
-C:/ubbmara/oop/cmake-build-debug/CMakeFiles/oop.dir
-C:/ubbmara/oop/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/ubbmara/oop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
