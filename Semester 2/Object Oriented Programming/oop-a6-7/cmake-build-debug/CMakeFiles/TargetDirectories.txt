@@ -1,3 +1,0 @@
-C:/ubbmara/oop-a6-7-maracoca/cmake-build-debug/CMakeFiles/oop_a6_7_maracoca.dir
-C:/ubbmara/oop-a6-7-maracoca/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/ubbmara/oop-a6-7-maracoca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
