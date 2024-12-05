@@ -1,3 +1,0 @@
-C:/ubbmara/a2-3-maracoca/cmake-build-debug/CMakeFiles/a2_3_maracoca.dir
-C:/ubbmara/a2-3-maracoca/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/ubbmara/a2-3-maracoca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
