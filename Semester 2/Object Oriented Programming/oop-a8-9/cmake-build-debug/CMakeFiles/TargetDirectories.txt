@@ -1,5 +1,0 @@
-C:/ubbmara/oop-a8-9-maracoca/cmake-build-debug/CMakeFiles/oop_a8_9_maracoca.dir
-C:/ubbmara/oop-a8-9-maracoca/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/ubbmara/oop-a8-9-maracoca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/ubbmara/oop-a8-9-maracoca/cmake-build-debug/CMakeFiles/oop_a8_9_maracoca_autogen_timestamp_deps.dir
-C:/ubbmara/oop-a8-9-maracoca/cmake-build-debug/CMakeFiles/oop_a8_9_maracoca_autogen.dir
